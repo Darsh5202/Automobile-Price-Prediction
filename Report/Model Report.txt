@@ -1,0 +1,30 @@
+###  7. Model Drift Risk
+Risk: Market trends change, affecting price patterns.  
+Mitigation: Retrain model every 3–6 months.
+
+###  8. Outdated Data Dependency
+Risk: Model predictions become less useful over time.  
+Mitigation: Keep dataset updated with new vehicles.
+
+---
+
+## 11. Conclusion
+The automobile price prediction model successfully predicts vehicle prices with high accuracy.  
+With proper feature selection, preprocessing, and model tuning, ML can effectively determine price-driving factors.
+
+The project demonstrates:
+- Strong nonlinear relationships  
+- Importance of feature engineering  
+- Practical value for automobile dealers, manufacturers, and customers  
+
+---
+
+## 12. Future Scope
+- Deploying the model as a web app  
+- Using deep learning models  
+- Adding more vehicle-related datasets  
+- Real-time price prediction via APIs  
+
+---
+
+*This markdown file can be directly attached to your project.*
