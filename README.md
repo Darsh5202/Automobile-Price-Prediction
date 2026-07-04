@@ -234,8 +234,3 @@ AutoPricePred.ipynb
 
 GitHub: https://github.com/Darsh5202
 
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
